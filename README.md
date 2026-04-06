@@ -17,7 +17,7 @@ Senior Flutter Developer with 5+ years of experience building high-performance, 
 - **UI/UX:** Material Design, Cupertino Widgets, Responsive Design  
 - **Version Control:** Git, GitHub, Bitbucket  
 - **Project Management:** Jira, Trello, Agile & Scrum methodologies  
-- **DevOps & Tools:** CI/CD, Firebase App Distribution, Docker  
+- **DevOps & Tools:** CI/CD, Firebase App Distribution  
 
 ---
 
