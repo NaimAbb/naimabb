@@ -23,7 +23,7 @@ Senior Flutter Developer with 5+ years of experience building high-performance, 
 
 ## 🛠️ Technical Proficiency
 
-Flutter | Dart | Firebase | REST API | GraphQL | Bloc | GetX | Riverpod | Git | CI/CD  
+Flutter | Dart | Firebase | REST API | GraphQL | Bloc | GetX | Riverpod | Git | CI/CD  | FinTech
 
 ---
 
